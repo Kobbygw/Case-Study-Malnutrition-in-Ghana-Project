@@ -1,0 +1,13 @@
+Child_ID,Age,Gender,Region,Malnutrition_Status,Health_Facility_Access,Daily_Meals,Household_Income,Parental_Education,Urban_or_Rural
+1,24,Male,Ashanti,Underweight,Yes,2,250,Primary,Urban
+2,36,Female,Northern,Stunted,No,1,150,None,Rural
+3,18,Male,Accra,Normal,Yes,3,500,Tertiary,Urban
+4,30,Female,Volta,Underweight,No,2,180,Primary,Rural
+5,48,Male,Western,Stunted,Yes,1,230,Secondary,Rural
+6,12,Female,Upper East,Normal,No,3,320,Tertiary,Urban
+7,60,Male,Greater Accra,Underweight,No,1,200,Primary,Rural
+8,42,Female,Eastern,Wasted,Yes,2,280,Secondary,Rural
+9,15,Male,Central,Stunted,No,1,170,None,Rural
+10,24,Female,Brong Ahafo,Normal,Yes,3,400,Secondary,Urban
+11,36,Male,Upper West,Stunted,No,1,190,Primary,Rural
+12,48,Female,Western,Underweight,No,2,220,Primary,Rural
